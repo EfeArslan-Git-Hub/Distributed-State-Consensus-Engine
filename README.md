@@ -13,6 +13,12 @@ Imagine a classroom where students need to pick a **Class President** to talk to
 
 This simulation shows exactly this process happening between 5 computer servers (nodes) in real-time.
 
+### Visual Guide
+| Candidate State (Voting) | Leader State (Stable) |
+|:------------------------:|:---------------------:|
+| ![Candidate](./screenshots/candidate-state.png) | ![Leader](./screenshots/leader-state.png) |
+| *Yellow balls asking for votes* | *Green hearts maintaining order* |
+
 ---
 
 ## 🚀 Features

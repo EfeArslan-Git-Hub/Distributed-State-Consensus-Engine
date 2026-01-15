@@ -1,4 +1,3 @@
-import React from 'react';
 import { Cluster } from './components/visualizer/Cluster';
 import { Controls } from './components/visualizer/Controls';
 import { Legend } from './components/visualizer/Legend';
