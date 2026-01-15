@@ -3,6 +3,9 @@
 A beautiful, interactive visualization of the **Raft Consensus Algorithm**.
 This project makes complex distributed systems concepts easy to understand by showing exactly how computers agree on a leader.
 
+## 🟢 [Live Demo](https://distributed-state-consensus-engine.vercel.app/)
+*(Click to try the simulation in your browser)*
+
 ## 🤔 What is this? (ELI5)
 
 Imagine a classroom where students need to pick a **Class President** to talk to the teacher.
