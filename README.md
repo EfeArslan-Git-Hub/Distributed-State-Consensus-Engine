@@ -6,6 +6,10 @@ This project makes complex distributed systems concepts easy to understand by sh
 ## 🟢 [Live Demo](https://distributed-state-consensus-engine.vercel.app/)
 *(Click to try the simulation in your browser)*
 
+<div align="center">
+  <img src="./screenshots/RaftCE.gif" alt="Raft Consensus Engine Demo" width="800" />
+</div>
+
 ## 🤔 What is this? (ELI5)
 
 Imagine a classroom where students need to pick a **Class President** to talk to the teacher.
